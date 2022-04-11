@@ -1,4 +1,4 @@
-n = int(input("enter the number to find the factorial : "))
+n = int(input())
 
 if (n<0):
     print ("please enter a valid number")
